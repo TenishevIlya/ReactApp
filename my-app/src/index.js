@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
+// import '../src/scripts/index.css';
+import './css/logIn.css';
+import MyForm from '../src/scripts/components/LogInComponets/LogIn.jsx';
 
-ReactDOM.render(<App />, document.getElementById('root'));
-
+ReactDOM.render(<MyForm />, document.getElementById('root'));

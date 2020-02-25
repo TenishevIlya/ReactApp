@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/TenishevIlya/ReactApp/issues"
   },
-  "homepage": "https://github.com/TenishevIlya/ReactApp#readme"
+  "homepage": "https://github.com/TenishevIlya/ReactApp#readme",
+  "dependencies": {}
 }
