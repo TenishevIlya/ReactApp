@@ -1,7 +1,7 @@
 import React from 'react';
 
-const SubmitBnt = () => {
-    return <a className="submit-btn" href="new.html">Войти в систему</a>
+const SubmitBnt = (props) => {
+    return <button className="submit-btn">{props.name}</button>
 }
 
 export default SubmitBnt;
